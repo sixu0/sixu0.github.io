@@ -6,6 +6,8 @@ Haidian District,Beijing
 
 Email: xs.cug at foxmail.com / samuel.si at cugb.edu.cn 
 
+[<img src="https://github.com/sixu0/sixu0.github.io/blob/master/scholar.jpg" width="48">](https://www.researchgate.net/profile/Xu_Si8)[<img src="https://github.com/sixu0/sixu0.github.io/blob/master/researchgate.jpg" width="48">](https://www.researchgate.net/profile/Xu_Si8)[<img src="https://github.com/sixu0/sixu0.github.io/blob/master/github.jpg" width="48">](https://www.researchgate.net/profile/Xu_Si8)[<img src="https://github.com/sixu0/sixu0.github.io/blob/master/linkin.jpg" width="48">](https://www.researchgate.net/profile/Xu_Si8)
+
 ## Biography
 I am currently a final year (2019-2020) master student in the School of Geophysics and Information Technology, China University of Geosciences, Beijing.
 
@@ -65,10 +67,4 @@ National Scholarship for Postgraduate in China (1.6%, Highest Honor in school of
 
 
 
-[![Image](https://github.com/sixu0/sixu0.github.io/blob/master/researchgate.jpg)](https://www.researchgate.net/profile/Xu_Si8)
 
-
-![Image](https://github.com/sixu0/sixu0.github.io/blob/master/researchgate.jpg = 25*25})
-
-
-[<img src="https://github.com/sixu0/sixu0.github.io/blob/master/researchgate.jpg" width="48">](https://www.researchgate.net/profile/Xu_Si8)
