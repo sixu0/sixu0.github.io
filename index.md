@@ -18,18 +18,16 @@ My research lies at the intersection of geophysics and artificial intelligence. 
 * 10/2018, One paper about Random noise attenuation has been accepted by SEG 88th Annual Meeting.
 
 ## Publications
-
-
-* Ground roll attenuation based on conditional and cycle generative adversarial networks
-**Xu Si**, Yijun Yuan, Fangyuan Ping, Yue Zheng, Liyi Feng.
+* Ground roll attenuation based on conditional and cycle generative adversarial networks(Poster)  
+**Xu Si**, Yijun Yuan, Fangyuan Ping, Yue Zheng, Liyi Feng.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019. (PDF)
 
-* 2-D Seismic Data Reconstruction With Conditional Generative Adversarial Networks
-Fan Li, **Xu Si**, Liyi Feng, Jianjun Gao.
+* 2-D Seismic Data Reconstruction With Conditional Generative Adversarial Networks(Oral)  
+Fan Li, **Xu Si**, Liyi Feng, Jianjun Gao.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
-* The improved DnCNN for linear noise attenuation
-Yue Zheng, Yijun Yuan, **Xu Si**. 
+* The improved DnCNN for linear noise attenuation(Oral)  
+Yue Zheng, Yijun Yuan, **Xu Si**.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
 * Ground roll attenuation using generative adversarial network
@@ -40,49 +38,37 @@ Geophysics, in revision.
 **Xu Si**, Yijun Yuan, Tinghua Si, and Shiwen Gao.  
 Interpretation, 7(3), SE269-SE280, 2019. (PDF)
 
-
 * [Random noise attenuation based on residual learning of deep convolutional neural network](https://library.seg.org/doi/10.1190/segam2018-2985176.1)    
 **Xu Si**, Yijun Yuan.  
 88th Annual International Meeting, SEG, Expanded Abstracts, 1986–1990, 2019. (PDF)
 
+## Education
+* Sep.2017 – Jun.2020  
+China University of Geosciences, Beijing, Beijing, China  
+M.S. in Geophysics/Seismic Exploration  
+Upper-Level Courses: Machine learning(coursera), Deeplearning.ai(coursera), linux programming, c++ programming
+
+* Sep.2013 – Jun.2017  
+China University of Geosciences, Wuhan, Hubei, China  
+B.E. in Applied Geophysics  
+Upper-Level Courses: General Geology, Propagation Theory of Seismic wave, The Theory of Seismic Exploration, Seismic data Processing and Interpretation
+
+## Experience
+* Jul.2017 - Sep.2017  
+BGP-CNPC, Huabei Branch, Hebei, China  
+Geoscientific Intern in Seismic data processing
+
+## Award
+Merit Postgraduate (Top 1%), 2019.  
+National Scholarship for Postgraduate in China (1.6%, Highest Honor in school of Geophysics and Information Technology), 2019.
 
 
 
-
-
-
-You can use the [editor on GitHub](https://github.com/sixu0/sixu0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sixu0/sixu0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
