@@ -42,7 +42,7 @@ Interpretation, 7(3), SE269-SE280, 2019. [(PDF)](https://www.researchgate.net/pu
 
 * [Random noise attenuation based on residual learning of deep convolutional neural network](https://library.seg.org/doi/10.1190/segam2018-2985176.1)    
 **Xu Si**, Yijun Yuan.  
-88th Annual International Meeting, SEG, Expanded Abstracts, 1986–1990, 2018. [(PDF)](https://www.researchgate.net/profile/Xu_Si8/publication/327614182_Random_noise_attenuation_based_on_residual_learning_of_deep_convolutional_neural_network/links/5d7e19ff92851c87c389f257/Random-noise-attenuation-based-on-residual-learning-of-deep-convolutional-neural-network.pdf)
+88th Annual International Meeting, SEG, Expanded Abstracts, 1986–1990, 2018. [(PDF)](https://www.researchgate.net/profile/Xu_Si8/publication/327614182_Random_noise_attenuation_based_on_residual_learning_of_deep_convolutional_neural_network/links/5d7e19ff92851c87c389f257/Random-noise-attenuation-based-on-residual-learning-of-deep-convolutional-neural-network.pdf) 
  
 ## Education
 * Sep.2017 – Jun.2020  
