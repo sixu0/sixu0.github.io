@@ -65,7 +65,7 @@ National Scholarship for Postgraduate in China (1.6%, Highest Honor in school of
 
 
 
-[![Image](https://github.com/sixu0/sixu0.github.io/blob/master/researchgate.jpg)](https://www.researchgate.net/profile/Xu_Si8)
+[![Image](https://github.com/sixu0/sixu0.github.io/blob/master/researchgate.jpg {:height="50" width="50"})](https://www.researchgate.net/profile/Xu_Si8)
 
 
 
