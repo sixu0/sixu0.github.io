@@ -30,7 +30,7 @@ SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learni
 Yue Zheng, Yijun Yuan, **Xu Si**.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
-* Ground roll attenuation using generative adversarial network
+* Ground roll attenuation using generative adversarial network  
 Yijun Yuan, **Xu Si**, Yue Zheng.  
 Geophysics, in revision.
 
@@ -65,8 +65,7 @@ National Scholarship for Postgraduate in China (1.6%, Highest Honor in school of
 
 
 
-[Link](url) and ![Image](src)
-```
+[Image](https://github.com/sixu0/sixu0.github.io/blob/master/github.png)
 
 
 
