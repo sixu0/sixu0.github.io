@@ -1,10 +1,10 @@
-#Xu Si
+# Xu Si
 ## Master candidate
-School of Geophysics and Information Technology
-China University of Geosciences (Beijing)
+School of Geophysics and Information Technology  
+China University of Geosciences (Beijing)  
 Haidian District,Beijing
 
-Email: xs.cug at foxmail.com / samuel.si@cugb.edu.cn 
+Email: xs.cug at foxmail.com / samuel.si at cugb.edu.cn 
 
 ## Biography
 ***
@@ -14,9 +14,13 @@ My research lies at the intersection of geophysics and artificial intelligence. 
 
 **Now, I'm Looking for Ph.D position in geophysics.**
 
-## Biography
+## News
+***
+* 11/2019, Three paper about Seismic data processing and reconstruction has been accepted by SEG Workshop on Mathematical Geophysics.
+* 10/2018, One paper about Random noise attenuation has been accepted by SEG 88th Annual Meeting.
 
-
+## Publications
+***
 
 You can use the [editor on GitHub](https://github.com/sixu0/sixu0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
