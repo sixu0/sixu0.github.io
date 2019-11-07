@@ -63,6 +63,7 @@ Geoscientific Intern in Seismic data processing
 ## Award
 Merit Postgraduate (Top 1%), 2019.  
 National Scholarship for Postgraduate in China (1.6%, Highest Honor in school of Geophysics and Information Technology), 2019.
+SEG 3rd International Workshop on Mathematical Geophysics: Best student poster, 2019.
 
 
 
