@@ -20,15 +20,15 @@ My research lies at the intersection of geophysics and artificial intelligence. 
 * 10/2018, One paper about Random noise attenuation has been accepted by SEG 88th Annual Meeting.
 
 ## Publications
-* Ground roll attenuation based on conditional and cycle generative adversarial networks(Poster)  
+* Ground roll attenuation based on conditional and cycle generative adversarial networks (Best Student Poster)  
 **Xu Si**, Yijun Yuan, Fangyuan Ping, Yue Zheng, Liyi Feng.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019. 
 
-* 2-D Seismic Data Reconstruction With Conditional Generative Adversarial Networks(Oral)  
+* 2-D Seismic Data Reconstruction With Conditional Generative Adversarial Networks (Oral)  
 Fan Li, **Xu Si**, Liyi Feng, Jianjun Gao.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
-* The improved DnCNN for linear noise attenuation(Oral)  
+* The improved DnCNN for linear noise attenuation (Oral)  
 Yue Zheng, Yijun Yuan, **Xu Si**.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
@@ -63,6 +63,7 @@ Geoscientific Intern in Seismic data processing
 ## Award
 Merit Postgraduate (Top 1%), 2019.  
 National Scholarship for Postgraduate in China (1.6%, Highest Honor in school of Geophysics and Information Technology), 2019.
+
 SEG 3rd International Workshop on Mathematical Geophysics: Best student poster, 2019.
 
 
