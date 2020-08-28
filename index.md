@@ -1,5 +1,5 @@
 # Xu Si
-## Master candidate
+## Ph.D candidate
 School of Geophysics and Information Technology  
 China University of Geosciences (Beijing)  
 Haidian District,Beijing
@@ -45,6 +45,10 @@ Interpretation, 7(3), SE269-SE280, 2019. [(PDF)](https://www.researchgate.net/pu
 88th Annual International Meeting, SEG, Expanded Abstracts, 1986–1990, 2018. [(PDF)](https://www.researchgate.net/profile/Xu_Si8/publication/327614182_Random_noise_attenuation_based_on_residual_learning_of_deep_convolutional_neural_network/links/5d7e19ff92851c87c389f257/Random-noise-attenuation-based-on-residual-learning-of-deep-convolutional-neural-network.pdf) 
  
 ## Education
+* Sep.2020 – present  
+University of Science and Technology of China, Hefei, China  
+Ph.D. in Geophysics
+
 * Sep.2017 – Jun.2020  
 China University of Geosciences, Beijing, Beijing, China  
 M.S. in Geophysics/Seismic Exploration  
@@ -56,6 +60,10 @@ B.E. in Applied Geophysics
 Upper-Level Courses: General Geology, Propagation Theory of Seismic wave, The Theory of Seismic Exploration, Seismic data Processing and Interpretation
 
 ## Experience
+* Jul.2020 - Aug.2020  
+Anhui Earthquake Agency, Hefei, China  
+Geoscientific Intern in seismic event detection and classification
+
 * Jul.2017 - Sep.2017  
 BGP-CNPC, Huabei Branch, Hebei, China  
 Geoscientific Intern in Seismic data processing
