@@ -1,19 +1,18 @@
 # Xu Si
 ## Ph.D candidate
 School of Geophysics and Information Technology  
-China University of Geosciences (Beijing)  
-Haidian District,Beijing
+University of Science and Technology of China  
+Baohe District, Hefei
 
 Email: xs.cug at foxmail.com / samuel.si at cugb.edu.cn 
 
 [Scholar](https://scholar.google.com/citations?user=pdmU1VcAAAAJ&hl=zh-CN&oi=sra)|[Researchgate](https://www.researchgate.net/profile/Xu_Si8)|[Github](https://github.com/sixu0)|[LinkedIn](https://www.linkedin.com/in/%E6%97%AD-%E5%8F%B8-540a85173/)  
 
 ## Biography
-I am currently a final year (2019-2020) master student in the School of Geophysics and Information Technology, China University of Geosciences, Beijing.
+I am currently a first year (2020-2021) Ph.D student in the University of Science and Technology of China, supervised by Prof. Xinming Wu
 
 My research lies at the intersection of geophysics and artificial intelligence. I am dedicated to designing data-efficient learning methods for seismic data processing and analysis.  
 
-**Now, I'm Looking for Ph.D. position in geophysics.**
 
 ## News
 * 11/2019, Three paper about Seismic data processing and reconstruction has been accepted by SEG Workshop on Mathematical Geophysics.
