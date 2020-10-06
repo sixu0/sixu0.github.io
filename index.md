@@ -23,11 +23,11 @@ My research lies at the intersection of geophysics and artificial intelligence. 
 **Xu Si**, Yijun Yuan, Fangyuan Ping, Yue Zheng, Liyi Feng.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019. 
 
-* 2-D Seismic Data Reconstruction With Conditional Generative Adversarial Networks (Oral)  
+* 2-D Seismic Data Reconstruction With Conditional Generative Adversarial Networks
 Fan Li, **Xu Si**, Liyi Feng, Jianjun Gao.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
-* The improved DnCNN for linear noise attenuation (Oral)  
+* The improved DnCNN for linear noise attenuation
 Yue Zheng, Yijun Yuan, **Xu Si**.  
 SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learning, 2019.
 
