@@ -33,7 +33,7 @@ SEG 3rd International Workshop on Mathematical Geophysics: Traditional vs Learni
 
 * Ground roll attenuation using generative adversarial network  
 Yijun Yuan, **Xu Si**, Yue Zheng.  
-Geophysics, in revision.
+Geophysics, 85 (4), WA255-WA267, 2020.
 
 * [Attenuation of random noise using denoising convolutional neural networks](https://library.seg.org/doi/10.1190/INT-2018-0220.1)  
 **Xu Si**, Yijun Yuan, Tinghua Si, and Shiwen Gao.  
