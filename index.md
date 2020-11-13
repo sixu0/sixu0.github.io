@@ -1,10 +1,10 @@
 # Xu Si
 ## Ph.D candidate
-School of Geophysics and Information Technology  
+School of Earth and Space Sciences 
 University of Science and Technology of China  
 Baohe District, Hefei
 
-Email: xs.cug at foxmail.com / samuel.si at cugb.edu.cn 
+Email: xu_si at qq.com / xusi at mail.ustc.edu.cn
 
 [Scholar](https://scholar.google.com/citations?user=pdmU1VcAAAAJ&hl=zh-CN&oi=sra)|[Researchgate](https://www.researchgate.net/profile/Xu_Si8)|[Github](https://github.com/sixu0)|[LinkedIn](https://www.linkedin.com/in/%E6%97%AD-%E5%8F%B8-540a85173/)  
 
@@ -15,6 +15,7 @@ My research lies at the intersection of geophysics and artificial intelligence. 
 
 
 ## News
+* 10/2020, One paper about ground roll attenuation has been accepted by SEG 90th Annual Meeting.
 * 11/2019, Three paper about Seismic data processing and reconstruction has been accepted by SEG Workshop on Mathematical Geophysics.
 * 10/2018, One paper about Random noise attenuation has been accepted by SEG 88th Annual Meeting.
 
