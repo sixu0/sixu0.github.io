@@ -1,5 +1,3 @@
-
-     
 # Xu Si
 ## Ph.D candidate
 School of Earth and Space Sciences 
